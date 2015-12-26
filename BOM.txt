@@ -1,0 +1,18 @@
+Digikey Part # | Quantity needed per board
+
+296-8503-5-ND | 1
+296-2133-5-ND | 1
+609-4715-ND | 1
+609-1046-ND | 1
+493-1769-ND | 1
+BC2665CT-ND | 1
+200XBK-ND | 3
+S120HCT-ND | 1
+AE9998-ND | 1
+AE9989-ND | 1
+S4.3KQCT-ND | 1
+CF14JT1K00CT-ND | 2
+CF14JT10K0CT-ND | 1
+CF14JT100RCT-ND | 1
+SAM1112-32-ND   | 1
+S7002-ND | 1 (optional, needed if you would like the termination resistor to be removable)
